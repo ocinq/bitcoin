@@ -102,6 +102,7 @@ testScripts = [
     'prioritise_transaction.py',
     'invalidblockrequest.py',
     'invalidtxrequest.py',
+    'preciousblock.py',
 ]
 testScriptsExt = [
     'bip65-cltv.py',
